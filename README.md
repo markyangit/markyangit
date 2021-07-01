@@ -7,4 +7,4 @@
 
 Alguns dos meus projetos:
 * [Jokes API Site](https://markyangit.github.io/promise-jokes-site/): Um site feito utilizando HTML, CSS e JavaScript puros, realizando comunicação com uma API de piadas a cada refresh da página.
-* [Pokedex React](my-pokedex-with-react.vercel.app): Primeiros passos em React: uma pokedex feita inteiramente com o framework, para praticar.
+* [Pokedex React](https://my-pokedex-with-react.vercel.app/): Primeiros passos em React: uma pokedex feita inteiramente com o framework, para praticar.
