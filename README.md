@@ -7,8 +7,8 @@ Aqui é onde eu insiro alguns projetos da minha caminhada como desenvolvedor web
 - Agora estou no módulo de Back-end, iniciando com Bancos de Dados Relacionais, utilizando o MySQL e partindo para bancos NoSQL, com Node.js usando o MongoDB e o Express, para formar uma Stack MERN.
 
 <div display="flex">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=markyangit&show_icons=true&theme=react"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markyangit&layout=compact&langs_count=5&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=markyangit&show_icons=true&theme=react"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markyangit&layout=compact&langs_count=5&theme=react"/>
 </div>
 
 #### Estou disponível para ser contactado via [LinkedIn](https://linkedin.com/in/gabrielmedeiro5).
