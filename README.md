@@ -3,7 +3,7 @@
 ### Meu nome é Gabriel e esse é o meu perfil no GitHub.
 #### Aqui é onde eu insiro alguns projetos da minha caminhada como desenvolvedor web. Você verá projetos simples, mas bastante divertidos e outros um pouco mais complexos.
 
-<img src="https://github-readme-stats.vercel.app/api?username=markyangit&show_icons=true&theme=react"/>
+<img src="https://github-readme-stats.vercel.app/api?username=markyangit&layout=compact&show_icons=true&theme=react"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markyangit&layout=compact&langs_count=5&theme=react"/>
 
 Alguns dos meus projetos:
