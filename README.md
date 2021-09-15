@@ -1,14 +1,14 @@
-### Hi there 👋
+## Hi there 👋
 
-### Meu nome é Gabriel e esse é o meu perfil no GitHub.
-#### Aqui é onde eu insiro alguns projetos da minha caminhada como desenvolvedor web. Você verá projetos simples, mas bastante divertidos e outros um pouco mais complexos.
+#### Meu nome é Gabriel e esse é o meu perfil no GitHub.
+Aqui é onde eu insiro alguns projetos da minha caminhada como desenvolvedor web. Atualmente sou aluno da [Trybe](https://www.betrybe.com/), no curso de Desenvolvimento Web Full Stack:
+- No primeiro módulo aprendemos os fundamentos do desenvolvimento, os pilares da web como HTML, CSS e JavaScript puro.
+- Em Front-end focamos em aprender a biblioteca React, construindo interfaces robustas desde as primeiras versões do React com componentes de classe, métodos de ciclo de vida, até o React-Redux, Context API com Hooks.
+- Agora estou no módulo de Back-end, iniciando com Bancos de Dados Relacionais, utilizando o MySQL e partindo para bancos NoSQL, com Node.js usando o MongoDB e o Express, para formar uma Stack MERN.
 
-<img src="https://github-readme-stats.vercel.app/api?username=markyangit&show_icons=true&theme=react"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markyangit&langs_count=5&theme=react"/>
+<div display="flex">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=markyangit&show_icons=true&theme=react"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markyangit&layout=compact&langs_count=5&theme=react"/>
+</div>
 
-Alguns dos meus projetos:
-* [Jokes API Site](https://markyangit.github.io/promise-jokes-site/): Um site feito utilizando HTML, CSS e JavaScript puros, realizando comunicação com uma API de piadas a cada refresh da página.
-* [Shopping Cart](https://markyangit.github.io/shopping-cart/): Aqui é um projeto mais complexo, um sistema de carrinho de compras com pesquisa de produtos na API do Mercado Livre, soma total do carrinho, carregamento do carrinho pelo localStorage etc.
-* [Learning Jest](https://github.com/markyangit/learning-jest): Subi para este repositório os arquivos que usei para exercitar meu aprendizado em Jest, o framework de testes do Facebook.
-* [Pokedex Stateless](https://my-pokedex-with-react-lpc8gf31o-markyangit.vercel.app/): Primeiros passos em React: uma pokedex feita inteiramente com o framework, para praticar.
-* [Pokedex Stateful](https://pokedex-stateful.vercel.app/): Uma pokedex mais robusta, com algumas funções manipulando estado e props.
+#### Estou disponível para ser contactado via [LinkedIn](https://linkedin.com/in/gabrielmedeiro5).
