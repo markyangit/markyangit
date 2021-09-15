@@ -32,4 +32,4 @@ Aqui é onde eu insiro alguns projetos da minha caminhada como desenvolvedor web
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-#### Estou disponível para ser contactado via [LinkedIn](https://linkedin.com/in/gabrielmedeiro5).
+## Estou disponível para ser contactado via [LinkedIn](https://linkedin.com/in/gabrielmedeiro5).
