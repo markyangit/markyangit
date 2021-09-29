@@ -1,20 +1,20 @@
-# Olá, bem-vindo(a) ao meu perfil no Github.
+# Hello, welcome to my Github profile.
 
-Meu nome é Gabriel, sou do Ceará, tenho 21 anos.
+My name is Gabriel, i'm from Ceara, Brazil, and i'm 21 years old.
 ######
-Aqui é onde eu insiro alguns projetos da minha caminhada como desenvolvedor web. Atualmente sou aluno da [Trybe](https://www.betrybe.com/), no curso de Desenvolvimento Web Full Stack
-# Sobre o curso na Trybe:
-- No primeiro módulo aprendemos os fundamentos do desenvolvimento, os pilares da web como HTML, CSS e JavaScript puro.
-- Em Front-end focamos em aprender a biblioteca React, construindo interfaces robustas desde as primeiras versões do React com componentes de classe, métodos de ciclo de vida, até o React-Redux, Context API com Hooks.
-- Agora estou no módulo de Back-end, iniciando com Bancos de Dados Relacionais, utilizando o MySQL e partindo para bancos NoSQL, com Node.js usando o MongoDB e o Express, para formar uma Stack MERN.
+This is where I introduce some projects from my journey as a web developer. I am currently a student at [Trybe](https://www.betrybe.com/), in the Full Stack Web Development course.
+# About Trybe's course:
+- In the first module we learned the fundamentals of development, the pillars of the web like HTML, CSS and pure JavaScript.
+- In Front-end we focus on learning the React library, building robust user interfaces from the first versions of React with class components, lifecycle methods, to React-Redux, Context API with Hooks.
+- Now I'm in the Back-end module, starting with Relational Databases, using MySQL and moving on to NoSQL databases, with Node.js using MongoDB and Express, to form a MERN Stack.
 
-# Meus status no GitHub:
+# GitHub Stats:
 <div display="flex">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=markyangit&show_icons=true&theme=react"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markyangit&layout=compact&langs_count=5&theme=react"/>
 </div>
 
-# Tecnologias com as quais trabalho diariamente:
+# Technologies I work with on a daily basis:
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,10 +26,10 @@ Aqui é onde eu insiro alguns projetos da minha caminhada como desenvolvedor web
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-# Atualmente aprendendo:
+# Currently learning:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-## Estou disponível para ser contactado via [LinkedIn](https://linkedin.com/in/gabrielmedeiro5).
+## I am available to be contacted on [LinkedIn](https://linkedin.com/in/gabrielmedeiro5).
