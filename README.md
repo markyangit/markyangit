@@ -1,12 +1,8 @@
 # Hello, welcome to my Github profile.
 
 My name is Gabriel, i'm from Ceara, Brazil, and i'm 21 years old.
-######
-This is where I introduce some projects from my journey as a web developer. I am currently a student at [Trybe](https://www.betrybe.com/), in the Full Stack Web Development course.
-# About Trybe's course:
-- In the first module we learned the fundamentals of development, the pillars of the web like HTML, CSS and pure JavaScript.
-- In Front-end we focus on learning the React library, building robust user interfaces from the first versions of React with class components, lifecycle methods, to React-Redux, Context API with Hooks.
-- Now I'm in the Back-end module, starting with Relational Databases, using MySQL and moving on to NoSQL databases, with Node.js using MongoDB and Express, to form a MERN Stack.
+
+I'm a full stack web developer focused on backend.
 
 # GitHub Stats:
 <div display="flex">
